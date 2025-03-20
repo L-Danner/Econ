@@ -1,0 +1,3 @@
+# Data Sources for Our Study
+Corporate Profit Data: https://fred.stlouisfed.org/series/CP  
+Labor Force Participation Rate Data: https://fred.stlouisfed.org/series/CIVPART  
