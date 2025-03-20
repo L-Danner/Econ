@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 
-# FRED API Key (You need to get this from https://fred.stlouisfed.org/)
+# FRED API Key (replace with your actual API key from https://fred.stlouisfed.org/)
 api_key = "97d3a0a768ad9549b93a55425760ce55"
 
 # Define the FRED series IDs
